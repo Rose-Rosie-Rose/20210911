@@ -8,6 +8,7 @@
   "env": {
     "browser": true,  // window
   //  "node": true,  // global
+    "jest/globals": true
   },
   "extends": [
     "eslint:recommended",
